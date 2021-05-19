@@ -1,0 +1,1 @@
+Sprite_Actor.MOTIONS.dead.loop = false;
